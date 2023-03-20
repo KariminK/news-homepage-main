@@ -166,6 +166,7 @@ card{
         padding: 25px 0;
     }
     .nav-btns{
+        display: none;
         position: fixed;
         z-index: 2;
         right: 0;
